@@ -1,9 +1,8 @@
 This is the first line
 
-Add a line between 1 & 2
+This is the second line from "develop branch"
 
 This is a third line, just because I need a change in a line
 
 Here is a fourth line
-
 
