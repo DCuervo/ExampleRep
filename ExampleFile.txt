@@ -1,10 +1,10 @@
-This is the first line
+This is the first line.
 
-This is the second line from "develop branch"
+This is the second line from "develop branch".
 
-This is a third line, just because I need a change in a line
+This is a third line, just because I need a change in a line.
 
-Here is a fourth line
+Here is a fourth line.
 
 There is another file
 
